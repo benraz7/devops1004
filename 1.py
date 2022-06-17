@@ -2,7 +2,7 @@ a = "Hello World!"
 b = 4
 c = False
 d = ["ben", "raz", 32, ["ski", "snowboard"]]  # list
-e = ["aviel", 32, True]  # tuple
+e = ["one", "two", "three"]  # tuple
 f = {"fname": "ben", "lname": "raz", "age": 32, "hobbies": "ski"}
 print(a)
 print(a)
